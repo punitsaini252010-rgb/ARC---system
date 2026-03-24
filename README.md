@@ -1,4 +1,4 @@
-<h1 align="center">ARC -SYSTEMS amp; </h1>
+<h1 align="center">ARC -SYSTEMS </h1>
 
 <div align="center">Open source admin dashboard starter built with Next.js 16, shadcn/ui, Tailwind CSS, TypeScript</div>
 
